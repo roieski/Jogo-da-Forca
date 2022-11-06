@@ -1,5 +1,5 @@
 # Jogo-da-Forca
-Desafio Codificador de Textos - Sprint 1 Programa ONE - Turma 3
+Desafio Jogo da Forca - Sprint 2 Programa ONE - Turma 3
 <h1>Requisitos:</h1>
 - Deve funcionar só com letras maiúsculas;<br><br>
 - Ao completar o desenho da forca, deve ser exibida uma mensagem na tela de "Fim de Jogo";<br><br>
