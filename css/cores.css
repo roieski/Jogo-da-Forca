@@ -1,0 +1,12 @@
+:root {
+    --cor_fundo:#E5E5E5;
+    --azul_botao:#0A3871;
+    --branco: #fff;
+    --borda_teclado:rgb(3, 242, 255);
+    --letra_teclado:hsl(227, 85%, 49%);
+    --letra_certa:#228b22;
+    --letra_errada:#800000;
+    --categoria:#8b008b;
+}
+
+
